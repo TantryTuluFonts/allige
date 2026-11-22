@@ -26,7 +26,7 @@ Download the latest build from the [Releases page](https://github.com/TantryTulu
 
 Allige is key-mapped: it places Tulu lipi glyphs on the Latin keys, so you type with an ordinary keyboard and the font draws the Tulu forms. The specimen above shows what each key produces. Because the text is stored as Latin characters, it only reads as Tulu while Allige is applied; paste it somewhere with a different font and it will show as plain Latin letters. Keep that in mind for search, sharing and archiving.
 
-Allige follows the **AccTantra** typing standard, the shared key map for all the ASCII fonts in the Tantry family. See the [key map](https://github.com/PrahladTantry/AccTantra/blob/main/docs/KEYMAP.md), the [conjunct reference](https://github.com/PrahladTantry/AccTantra/blob/main/docs/CONJUNCTS.md) and the [typing examples](https://github.com/PrahladTantry/AccTantra/blob/main/docs/EXAMPLES.md). Try it: type `EAamA nEma narayNay` and Allige shows *Om namo Narayanaya*.
+Allige follows the **AccTantra** typing standard, the shared key map for all the ASCII fonts in the Tantry family. See the [key map](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/KEYMAP.md), the [conjunct reference](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/CONJUNCTS.md) and the [typing examples](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/EXAMPLES.md). Try it: type `EAamA nEma narayNay` and Allige shows *Om namo Narayanaya*.
 
 <p align="center"><img src="images/allige-logo.jpeg" alt="Allige logo" width="220"></p>
 
