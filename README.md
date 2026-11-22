@@ -14,6 +14,10 @@ Allige is a compact Tulu lipi font; this is the Academy edition, version 1.4. Th
 | **License** | [SIL OFL 1.1](OFL.txt) |
 | **Family** | [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) |
 
+## The standard
+
+[the standard for writing Tuḷu](https://tantrytulufonts.github.io/tulu-script-standard/) is set out in [*Tuḷu Varṇāmr̥ta*](https://tantrytulufonts.github.io/tulu-varnamruta/). [Mallige](https://github.com/TantryTuluFonts/mallige) and [Mallige Unicode](https://github.com/TantryTuluFonts/Mallige_unicode) are its faithful representations. Allige was forked from Mallige, and it is the exception to the Unicode porting.
+
 ## Get the font
 
 Download the latest build from the [Releases page](https://github.com/TantryTuluFonts/allige/releases/latest), or take `fonts/XAAlAlieg(allige)Academy1.4.ttf` straight from this repository.
